@@ -1,0 +1,25 @@
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\RBC Salario.exe
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\RBC Salario.deps.json
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\RBC Salario.runtimeconfig.json
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\RBC Salario.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\RBC Salario.pdb
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.csproj.AssemblyReference.cache
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC_Salario.Form1.resources
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.csproj.GenerateResource.cache
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.AssemblyInfoInputs.cache
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.AssemblyInfo.cs
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.csproj.CoreCompileInputs.cache
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\refint\RBC Salario.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.pdb
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.genruntimeconfig.cache
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\ref\RBC Salario.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC Salario.csproj.CopyComplete
+D:\Brendon\CodigoFonte\RBC Salario\RBC Salario\obj\Debug\net6.0-windows\RBC_Salario.Form2.resources
